@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SaiAkashNeela/SaiAkashNeela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 📔 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
+![SaiAkashNeela github stats](https://github-readme-stats.vercel.app/api?username=saiakashneela&show_icons=true&theme=highcontrast&hide=Contributedto)
+<br>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiakashneela)
+
+
+
