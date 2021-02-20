@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... technology
 - 📫 How to reach me: ... hello@saiakashneela.com
-- ⚡ Fun fact: ... pert-time freelancer.
+- ⚡ Fun fact: ... part-time freelancer.
 
 ### 📔 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
