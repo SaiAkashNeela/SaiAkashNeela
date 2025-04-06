@@ -25,6 +25,7 @@ I'm passionate about building scalable infrastructure and optimizing web hosting
 - [Portfolio](https://saiakashneela.com)
 - [LinkedIn](https://www.linkedin.com/in/saiakashneela/)
 - [GitHub](https://github.com/SaiAkashNeela)
+- [Freelance](https://geeksdesigns.com)
 
 ### 📈 GitHub Stats
 
