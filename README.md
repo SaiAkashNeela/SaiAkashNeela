@@ -1,22 +1,42 @@
-### Hi there 👋
+# Hi there, I'm Sai Akash Neela 👋
 
-- 🔭 I’m a DevOps Engineer & DBA.
-- 🌱 I’m currently learning ... Cloud Based technologies
-- 👯 I’m available for part-time freelanceing
-- 🤔 I’m looking for help on ... CyberSecurity
-- 💬 Ask me about ... technology
-- 📫 How to reach me: ... hello@saiakashneela.com
-- ⚡ Fun fact: ... Checkout my website.
+## DevOps & Cloud/Web Infrastructure Engineer
 
-### 📔 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Blogs - General & Tech](https://www.saiakashneela.in/)
-<!-- BLOG-POST-LIST:END -->
+I'm passionate about building scalable infrastructure and optimizing web hosting environments. My expertise lies in automating deployment pipelines, managing cloud resources, and providing robust web infrastructure solutions.
 
+### 🔧 Skills & Technologies
 
-![SaiAkashNeela github stats](https://github-readme-stats.vercel.app/api?username=saiakashneela&show_icons=true&theme=highcontrast&hide=Contributedto)
-<br>
-</br>
+- **DevOps Tools**: Jenkins, GitLab CI/CD, GitHub Actions, Docker, Kubernetes
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Web Technologies**: NGINX, Apache, WordPress, DNS Management
+- **Languages**: Python, Bash, JavaScript, Go
 
+### 🚀 Featured Projects
 
+- **DevOps Automation Platform**: Centralized CI/CD pipeline management with template systems
+- **Kubernetes Monitoring System**: Real-time metrics and visualization for container environments
+- **Cloud Cost Optimization Tool**: Multi-cloud cost analysis and optimization recommendations
+- **Database Migration Toolkit**: Automated schema conversion and data transfer between DB systems
 
+### 🌐 Connect with Me
+
+- [Portfolio](https://saiakashneela.com)
+- [LinkedIn](https://www.linkedin.com/in/saiakashneela/)
+- [GitHub](https://github.com/SaiAkashNeela)
+
+### 📈 GitHub Stats
+
+![Sai Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiAkashNeela&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAkashNeela&layout=compact&theme=tokyonight)
+
+### 💼 Work Experience
+
+Currently open to:
+- Full-time DevOps opportunities
+- Freelance development projects
+- Technical consulting services
+
+Feel free to reach out for collaborations or opportunities! 
