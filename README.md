@@ -28,15 +28,8 @@ I'm passionate about building scalable infrastructure and optimizing web hosting
 
 ### 📈 GitHub Stats
 
-![Sai Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiAkashNeela&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAkashNeela&layout=compact&theme=tokyonight)
 
-### 💼 Work Experience
-
-Currently open to:
-- Full-time DevOps opportunities
-- Freelance development projects
-- Technical consulting services
+Say hello? hello@saiakashneela.com
 
 Feel free to reach out for collaborations or opportunities! 
