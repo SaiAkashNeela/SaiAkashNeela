@@ -2,15 +2,33 @@
 
 ## AI Systems Engineer | DevOps | Automation
 
-I build real-world AI systems that actually run in production — not just demos.
+I build real-world AI systems and developer tools that actually run in production.
 
-Over the past 4+ years, I’ve been working across AI, cloud, and automation — designing and shipping end-to-end systems that combine LLMs, scalable infrastructure, and workflow automation.
+---
 
-Most of my work sits at the intersection of:
-- AI (LLMs, RAG, agents)
-- Backend systems (APIs, microservices)
-- DevOps & cloud infrastructure
-- Automation & integrations
+## 🚀 Featured Work
+
+### 🔹 BucketStack (Open Source)
+A native desktop S3 file manager built in Rust that lets you manage object storage like a local file system.
+
+- Works with **AWS S3, Cloudflare R2, MinIO, and other S3-compatible providers**
+- Full file operations with a clean native UI (upload, download, move, delete)
+- Background sync, transfer manager, and scheduled jobs
+- Built for developers managing **multi-cloud storage workflows**
+
+👉 https://bucketstack.app
+
+---
+
+### 🔹 saiakash.dev (Personal Website)
+My personal portfolio and project hub where I showcase my work, experiments, and systems.
+
+- Built as a **production-grade web platform**
+- Showcases AI systems, infrastructure work, and projects
+- Continuously evolving with new tools and ideas
+
+👉 https://saiakashneela.com  
+👉 https://github.com/SaiAkashNeela
 
 ---
 
@@ -57,16 +75,6 @@ Most of my work sits at the intersection of:
 - Prometheus, Grafana
 - Logging, alerting, uptime monitoring
 - Performance tuning & cost optimization
-
----
-
-## 🛠️ Things I’ve Built
-
-- AI-powered **document Q&A systems (RAG)**
-- **Context-aware chatbots** with memory + retrieval
-- **Automation systems** connecting APIs, CRMs, and internal tools
-- **Cloud cost optimization workflows**
-- **Deployment pipelines** for multi-environment systems
 
 ---
 
