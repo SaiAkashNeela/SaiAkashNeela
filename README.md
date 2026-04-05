@@ -1,36 +1,95 @@
-# Hi there, I'm Sai Akash Neela 👋
+# Hi, I'm Sai Akash 👋
 
-## DevOps & Cloud/Web Infrastructure Engineer
+## AI Systems Engineer | DevOps | Automation
 
-I'm passionate about building scalable infrastructure and optimizing web hosting environments. My expertise lies in automating deployment pipelines, managing cloud resources, and providing robust web infrastructure solutions.
+I build real-world AI systems that actually run in production — not just demos.
 
-### 🔧 Skills & Technologies
+Over the past 4+ years, I’ve been working across AI, cloud, and automation — designing and shipping end-to-end systems that combine LLMs, scalable infrastructure, and workflow automation.
 
-- **DevOps Tools**: Jenkins, GitLab CI/CD, GitHub Actions, Docker, Kubernetes
-- **Cloud Platforms**: AWS, Azure, GCP
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **Web Technologies**: NGINX, Apache, WordPress, DNS Management
-- **Languages**: Python, Bash, JavaScript, Go
+Most of my work sits at the intersection of:
+- AI (LLMs, RAG, agents)
+- Backend systems (APIs, microservices)
+- DevOps & cloud infrastructure
+- Automation & integrations
 
-### 🚀 Featured Projects
+---
 
-- **DevOps Automation Platform**: Centralized CI/CD pipeline management with template systems
-- **Kubernetes Monitoring System**: Real-time metrics and visualization for container environments
-- **Cloud Cost Optimization Tool**: Multi-cloud cost analysis and optimization recommendations
-- **Database Migration Toolkit**: Automated schema conversion and data transfer between DB systems
+## 🚀 What I Actually Do
 
-### 🌐 Connect with Me
+- Build **RAG-based systems** (document Q&A, semantic search, internal AI tools)
+- Design **LLM-powered workflows & agents** using OpenAI, Gemini, Claude
+- Create **scalable backend systems** (Python, Go, Rust)
+- Automate business processes using **n8n + APIs + event-driven systems**
+- Deploy and manage **production-grade cloud infrastructure**
+- Optimize systems for **latency, cost, and reliability**
 
-- [Portfolio](https://saiakashneela.com)
-- [LinkedIn](https://www.linkedin.com/in/saiakashneela/)
-- [GitHub](https://github.com/SaiAkashNeela)
-- [Freelance](https://geeksdesigns.com)
+---
 
-### 📈 GitHub Stats
+## 🧠 AI & Automation Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAkashNeela&layout=compact&theme=tokyonight)
+- **LLMs**: OpenAI, Gemini (2.5 / 3.0 Pro), Claude, Codex
+- **AI Systems**: RAG pipelines, vector search, embeddings, context engineering
+- **Automation**: n8n, workflow orchestration, MCP servers
+- **Real-time Processing**: streaming pipelines, async workers
 
-Say hello? hello@saiakashneela.com
+---
 
-Feel free to reach out for collaborations or opportunities! 
+## ⚙️ Backend & Infrastructure
+
+- **Languages**: Python, Go, Rust, JavaScript
+- **APIs**: FastAPI, REST, event-driven architectures
+- **Databases**: PostgreSQL, MongoDB, vector databases
+
+---
+
+## ☁️ Cloud & DevOps
+
+- **AWS**: ECS Fargate, EC2, RDS, S3, IAM, Route53
+- **Cloudflare**: Workers, R2, Zero Trust, Tunnels
+- **Platforms**: Railway, Hetzner, Coolify, Dokploy
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI/CD
+- **Containers**: Docker, Kubernetes
+
+---
+
+## 📊 Monitoring & Reliability
+
+- Prometheus, Grafana
+- Logging, alerting, uptime monitoring
+- Performance tuning & cost optimization
+
+---
+
+## 🛠️ Things I’ve Built
+
+- AI-powered **document Q&A systems (RAG)**
+- **Context-aware chatbots** with memory + retrieval
+- **Automation systems** connecting APIs, CRMs, and internal tools
+- **Cloud cost optimization workflows**
+- **Deployment pipelines** for multi-environment systems
+
+---
+
+## 💼 Experience Snapshot
+
+### AI & Cloud Operations Engineer — Roxonn (2025–Present)
+- Managing cloud + AI infrastructure powering production systems
+- Building automation workflows and deployment pipelines
+- Supporting RAG systems, vector pipelines, and real-time AI workloads
+
+### Lead DevOps Engineer — Bell Soft LTD (2022–2025)
+- Designed CI/CD pipelines, cloud infra, and monitoring systems
+- Built scalable Kubernetes environments and automation workflows
+
+### DevOps Engineer — Qapita (2021–2022)
+- Managed deployments, databases, and microservices infrastructure
+
+---
+
+## 🌐 Connect
+
+- Portfolio: https://saiakashneela.com  
+- LinkedIn: https://www.linkedin.com/in/saiakashneela/  
+- GitHub: https://github.com/SaiAkashNeela  
+
+📩 hello@saiakashneela.com
