@@ -23,10 +23,6 @@ A native desktop S3 file manager built in Rust that lets you manage object stora
 ### 🔹 saiakash.dev (Personal Website)
 My personal portfolio and project hub where I showcase my work, experiments, and systems.
 
-- Built as a **production-grade web platform**
-- Showcases AI systems, infrastructure work, and projects
-- Continuously evolving with new tools and ideas
-
 👉 https://saiakashneela.com  
 👉 https://github.com/SaiAkashNeela
 
@@ -78,26 +74,10 @@ My personal portfolio and project hub where I showcase my work, experiments, and
 
 ---
 
-## 💼 Experience Snapshot
-
-### AI & Cloud Operations Engineer — Roxonn (2025–Present)
-- Managing cloud + AI infrastructure powering production systems
-- Building automation workflows and deployment pipelines
-- Supporting RAG systems, vector pipelines, and real-time AI workloads
-
-### Lead DevOps Engineer — Bell Soft LTD (2022–2025)
-- Designed CI/CD pipelines, cloud infra, and monitoring systems
-- Built scalable Kubernetes environments and automation workflows
-
-### DevOps Engineer — Qapita (2021–2022)
-- Managed deployments, databases, and microservices infrastructure
-
----
-
 ## 🌐 Connect
 
-- Portfolio: https://saiakashneela.com  
+- Portfolio: https://saiakashneela.com & https://saiakash.dev
 - LinkedIn: https://www.linkedin.com/in/saiakashneela/  
 - GitHub: https://github.com/SaiAkashNeela  
 
-📩 hello@saiakashneela.com
+📩 hello@saiakashneela.com | hello@saiakash.dev
